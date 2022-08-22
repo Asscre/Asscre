@@ -1,4 +1,6 @@
-大家好，我是Asscre，欢迎来到我的首页。
+Hi there 👋
+
+我是Asscre，欢迎来到我的首页。
 
 现在我从事的相关工作是：Web前端开发、Flutter移动端开发和Flutter社区贡献。
 
