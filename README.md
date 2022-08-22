@@ -9,6 +9,6 @@
 [掘金博客](https://juejin.cn/user/870468939942311)
 
 #### Most Used Languages
-![counter](https://github-readme-stats.vercel.app/api/top-langs/?username=tsukiseele&theme=vue&layout=compact&langs_count=6&hide_title=true)
+![counter](https://github-readme-stats.vercel.app/api/top-langs/?username=Asscre&theme=vue&layout=compact&langs_count=6&hide_title=true)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Asscre)](https://github.com/anuraghazra/github-readme-stats)
